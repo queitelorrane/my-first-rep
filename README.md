@@ -100,7 +100,7 @@ Num | Nome | Nota
 Para citar um código de programação basta usar uma crase antes e depois da linha começar e acabar.
 
 Exemplo:
-`print("Olá, Mundo!)` 
+`print("Olá, Mundo!")` 
 
 Se quiser citar várias linhas de código, para isso utilize 3 crases antes e depois do código.
 
@@ -109,7 +109,7 @@ Se quiser citar várias linhas de código, para isso utilize 3 crases antes e de
  Oha meu programa em python.
  ```
  num = int(input('Digite um valor: '))
- if num %2 == 0;
+ if num % 2 == 0;
      print(f'O valor {num} é PAR')
  else:
      print(f'O valor {num} é ÍMPAR')
